@@ -3,7 +3,7 @@ Contributors: liveaspankaj
 Donate link:
 Tags: LearnDash, eLearning, LMS, Hide, Hide Content, Hide Message
 Requires at least: 4.0
-Tested up to: 6.8
+Tested up to: 6.8.2
 Stable tag: trunk
 Requires PHP: 5.6
 License: GPLv2 or later
